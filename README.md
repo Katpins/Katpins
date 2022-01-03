@@ -1,4 +1,4 @@
-👋 Hi, I’m @Katpins a junior game developer<br/>
+👋 Hi, I’m @Katpins a junior game developer working at Stellar Cartography <br/>
 :turtle: I am an intermediate at C# in Unity and a beginner at Python<br/>
 🌱 I’m currently trying to learn C++ in Unreal and a bit of Web<br/>
 :star: I am always happy for some feedback<br/>
